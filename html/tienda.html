@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/v118_123.png">
+    <link rel="stylesheet" href="../styles/tienda.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Tienda</title>
+</head>
+<body>
+    <header>
+        <div class="flex-col">
+            <div class="flex-row">
+                <img class="logo" src="../images/v118_123.png" alt="" width="120px" height="120px" style="border-radius: 50%;">
+                <span class="user-logo-text">
+                    <img src="../images/icons-svg/usericon.svg" alt="">
+                    <h4>Vendedor</h4>
+                </span>
+                <img src="../images/icons-svg/cart-shopping-solid.svg" alt="" width="37px" height="37px">
+                <img src="../images/icons-svg/header-icon-search.svg" alt="">
+            </div>
+            <div class="flex-row2">
+                <nav class="navbar">
+                    <ul>
+                        <a href="../index.html">
+                            <li>Inicio</li>
+                        </a>
+                        <a href="../historia.html">
+                            <li>Patrimonio Histórico</li>
+                        </a>
+                        <li>Patrimonio Cultural</li>
+                        <a href="./noticias.html">
+                            <li>Noticias</li>
+                        </a>
+                        <a href="./tienda.html">
+                            <li class="tienda">Tienda</li>
+                        </a>
+                        <li><a href="./gestion-productos.html">Administrar Productos</a></li>
+                        <li>Contáctanos</li>
+                    </ul>
+                </nav>
+                <a href="../InicioSesion.html" class="btn-iniciarsesion">Iniciar Sesión</a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <form class="filter-container">
+            <select name="" id="">
+                <option value="option1">Categoria</option>
+                <option value="option1">Comida</option>
+                <option value="option1">Muebles</option>
+                <option value="option1">Decoracion</option>
+            </select>
+            <select name="" id="">
+                <option value="option1">Precio</option>
+            </select>
+            <select name="" id="">
+                <option value="option1">Disponibilidad</option>
+                <option value="option1">Disponible</option>
+            </select>
+            <select name="" id="">
+                <option value="option1">Descuentos</option>
+                <option value="option1">5%</option>
+                <option value="option1">10%</option>
+                <option value="option1">15%</option>
+            </select>
+        </form>
+        <div class="paginacion-filter-container">
+            <div class="paginacion-container">
+                <span class="paginacion-item"><<</span>
+                <span class="paginacion-item"><</span>
+                <span class="paginacion-item page-one">1</span>
+                <span class="paginacion-item">2</span>
+                <span class="paginacion-item">3</span>
+                <span class="paginacion-item">></span>
+                <span class="paginacion-item">>></span>
+            </div>
+            <select name="" id="" class="namefilter">
+                <option value="">Nombre A-Z</option>
+                <option value="">Nombre Z-A</option>
+                <option value="">Fecha mas reciente</option>
+                <option value="">Fecha mas antigua</option>
+            </select>
+        </div>
+        <div class="product-list">
+            <span class="product-item">
+                <span class="top-content">
+                    <p class="etiqueta-nuevo">Nuevo</p>
+                    <span class="img-container">
+                        <img src="../images/cajeta.jpg" alt="Cajeta">
+                        <span class="like-btn"></span>
+                    </span>
+                    <p class="name-product">Cajeta de leche</p>
+                    <p class="subname-product">Peso neto: 8 Oz (230 g) <br> <br></p>
+                </span>
+                <span class="description">
+                    <p class="description-text">Deliciosa cajeta de leche elaborada en “La Casa de las Cajetas ”</p>
+                    <p class="content-text"><b>Contiene: </b>1 Cajeta por caja</p>
+                    <p class="description2">Elaborada 100% a base de leche de vaca <br><br></p>
+                </span>
+                <span class="price-buybutton">
+                    <p class="price">C$90.00</p>
+                    <p class="buy-btn">Agregar al Carrito</p>
+                </span>
+            </span>
+            <span class="product-item">
+                <span class="top-content">
+                    <p class="etiqueta-nuevo">Nuevo</p>
+                    <span class="img-container">
+                        <img src="../images/sillas.jpg" alt="Sillas">
+                        <span class="like-btn"></span>
+                    </span>
+                    <p class="name-product">Sillas de madera</p>
+                    <p class="subname-product">Dimensiones del producto: 20,47"prof. x 20,47"an. x 29,92"al. pulgadas</p>
+                </span>
+                <span class="description">
+                    <p class="description-text">Sillas de madera, con respaldo sólido, barnizadas</p>
+                    <p class="content-text"><b>Contiene: </b>Juego de 3 sillas</p>
+                    <p class="description2">Ofrece un aspecto elegante a tu atractiva mesa 
+                        de comedor con este juego de tres
+                        sillas de comedor.</p>
+                </span>
+                <span class="price-buybutton">
+                    <p class="price">C$1500.00</p>
+                    <p class="buy-btn">Agregar al Carrito</p>
+                </span>
+            </span>
+            <span class="product-item">
+                <span class="top-content">
+                    <p class="etiqueta-nuevo">Nuevo</p>
+                    <span class="img-container">
+                        <img src="../images/porton.jpg" alt="Porton">
+                        <span class="like-btn"></span>
+                    </span>
+                    <p class="name-product">Portón de Hierro</p>
+                    <p class="subname-product">Dimensiones: 2.7m ancho, 2.15m alto. <br> <br></p>
+                </span>
+                <span class="description">
+                    <p class="description-text">Porton de hierro color negro. <br> <br></p>
+                    <p class="content-text"><b>Contiene: </b>Portón de 2 piezas.</p>
+                    <p class="description2">El precio cubre la instalación <br> <br></p>
+                </span>
+                <span class="price-buybutton">
+                    <p class="price">C$3000.00</p>
+                    <p class="buy-btn">Agregar al Carrito</p>
+                </span>
+            </span>
+            <span class="product-item">
+                <span class="top-content">
+                    <p class="etiqueta-nuevo">Nuevo</p>
+                    <span class="img-container">
+                        <img src="../images/caldero.jpg" alt="Caldero">
+                        <span class="like-btn"></span>
+                    </span>
+                    <p class="name-product">Caldero de aluminio</p>
+                    <p class="subname-product">Diámetro: 20” <br> <br></p>
+                </span>
+                <span class="description">
+                    <p class="description-text">Caldero ideal para cocinar sopa, hacer nacatamales, se cuenta con diferentes precios y tamaños. <br></p>
+                    <p class="content-text"><b>Contiene: </b>1 caldero de aluminio</p>
+                    <p class="description2">Calidad garantizada <br></p>
+                </span>
+                <span class="price-buybutton">
+                    <p class="price">C$4500.00</p>
+                    <p class="buy-btn">Agregar al Carrito</p>
+                </span>
+            </span>
+            <span class="product-item">
+                <span class="top-content">
+                    <p class="etiqueta-nuevo">Nuevo</p>
+                    <span class="img-container">
+                        <img src="../images/hamaca.jpg" alt="Hamaca">
+                        <span class="like-btn"></span>
+                    </span>
+                    <p class="name-product">Hamaca</p>
+                    <p class="subname-product">Tamaño: 2m de largo, 90cm de ancho<br> <br></p>
+                </span>
+                <span class="description">
+                    <p class="description-text">Hamaca tejida a precio económico</p>
+                    <p class="content-text"><b>Contiene: </b>1 Hamaca </p>
+                    <p class="description2">Elaborada con madera y algodón tejido de forma 
+                        artesanal<br></p>
+                </span>
+                <span class="price-buybutton">
+                    <p class="price">C$900.00</p>
+                    <p class="buy-btn">Agregar al Carrito</p>
+                </span>
+            </span>
+            <span class="product-item">
+                <span class="top-content">
+                    <p class="etiqueta-nuevo">Nuevo</p>
+                    <span class="img-container">
+                        <img src="../images/repisa.jpg" alt="Repisa de madera">
+                        <span class="like-btn"></span>
+                    </span>
+                    <p class="name-product">Repisa de madera</p>
+                    <p class="subname-product">Tamaño: alt 190cm, anch 40cm  <br></p>
+                </span>
+                <span class="description">
+                    <p class="description-text">Repisa de madera de Cedro real</p>
+                    <p class="content-text"><b>Contiene: </b>1 Repisa </p>
+                    <p class="description2">Preciosa repisa barnizada. Ideal para decorar
+                        tu hogar, no ocupa mucho espacio, perfecta para
+                        lugares pequeños</p>
+                </span>
+                <span class="price-buybutton">
+                    <p class="price">C$700.00</p>
+                    <p class="buy-btn">Agregar al Carrito</p>
+                </span>
+            </span>
+            <span class="product-item">
+                <span class="top-content">
+                    <p class="etiqueta-nuevo">Nuevo</p>
+                    <span class="img-container">
+                        <img src="../images/decoracion.jpg" alt="Repisa de madera">
+                        <span class="like-btn"></span>
+                    </span>
+                    <p class="name-product">Macetera</p>
+                    <p class="subname-product">Tamaño: 50cm alto, 60cm ancho<br></p>
+                </span>
+                <span class="description">
+                    <p class="description-text">Macetera para decorar exteriores, sirve para plantas grandes</p>
+                    <p class="content-text"><b>Contiene: </b>1 Macetera </p>
+                    <p class="description2">Elaborada  con llantas usadas, para fomentar 
+                        el reciclaje, apoya a la causa. </p>
+                </span>
+                <span class="price-buybutton">
+                    <p class="price">C$200.00</p>
+                    <p class="buy-btn">Agregar al Carrito</p>
+                </span>
+            </span>
+            <span class="product-item">
+                <span class="top-content">
+                    <p class="etiqueta-nuevo">Nuevo</p>
+                    <span class="img-container">
+                        <img src="../images/cosahorno.jpg" alt="Repisa de madera">
+                        <span class="like-btn"></span>
+                    </span>
+                    <p class="name-product">Cosa de horno</p>
+                    <p class="subname-product">Peso neto: 350 g<br></p>
+                </span>
+                <span class="description">
+                    <p class="description-text">Deliciosa cosa de horno, llévele, llévele. <br> <br></p>
+                    <p class="content-text"><b>Contiene: </b>5 piezas de cosa de horno </p>
+                    <p class="description2">Elaborada con maíz de la mejor calidad. <br> <br></p>
+                </span>
+                <span class="price-buybutton">
+                    <p class="price">C$30.00</p>
+                    <p class="buy-btn">Agregar al Carrito</p>
+                </span>
+            </span>
+        </div>
+        <div class="pagination-container">
+            <div class="paginacion-container">
+                <span class="paginacion-item"><<</span>
+                <span class="paginacion-item"><</span>
+                <span class="paginacion-item page-one">1</span>
+                <span class="paginacion-item">2</span>
+                <span class="paginacion-item">3</span>
+                <span class="paginacion-item">></span>
+                <span class="paginacion-item">>></span>
+            </div>
+        </div>
+    </main>
+    <footer class="v178_269">
+        <div class="v178_270"></div><span class="v178_271">Diriomo</span>
+        <div class="v178_272"></div>
+        <div class="v178_273"></div>
+        <div class="v178_274"></div>
+        <div class="v178_275"></div><span class="v178_276">Para visitantes</span><span class="v178_277">Sobre
+            nosotros</span><span class="v178_278">Contactos</span><span class="v178_279">Misión</span><span
+            class="v178_280">Visión</span><span class="v178_281">Galeria</span><span
+            class="v178_282">Noticias</span><span class="v178_283">Artículos científicos</span><span
+            class="v178_284">© 2023 Derchos reservados
+            «Diriomo, un destino turístico lleno de historia, cultura y tradición»
+            Cuando se utilizan materiales tomados de este sitio, se requiere un enlace a la fuente.</span><span
+            class="v178_285">Nuestras redes sociales</span><span class="v178_286">Patrimonio histórico</span><span
+            class="v178_287">Publicaciones</span><span class="v178_288">Seminarios</span><span
+            class="v178_289">Exposiciones</span><span class="v178_290">Patrimonio Cultural</span><span
+            class="v178_291">Noticias</span><span class="v178_292">Historia</span><span class="v178_293">+505 8452
+            0000
+            +505 8452 0000
+
+            info@.ni</span><span class="v178_294">Información legal</span><span class="v178_295">Política de
+            privacidad</span>
+        <div class="v178_296">
+            <div class="v178_297"></div><span class="v178_298">Comentarios</span><span class="v178_299">Ingresa tus
+                sugerencias</span>
+        </div>
+        <div class="v178_300"></div>
+        <div class="name"></div>
+        <div class="v178_302"></div>
+    </footer>
+</body>
+</html>

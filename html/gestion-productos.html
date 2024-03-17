@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
+    <link href="../styles/gestionproductos.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/v118_123.png">
+    <title>Gestion Productos</title>
+</head>
+<body>
+    <header>
+        <div class="flex-col">
+            <div class="flex-row">
+                <img class="logo" src="../images/v118_123.png" alt="" width="120px" height="120px" style="border-radius: 50%;">
+                <span class="user-logo-text">
+                    <img src="../images/icons-svg/usericon.svg" alt="">
+                    <h4>Vendedor</h4>
+                </span>
+                <img src="../images/icons-svg/cart-shopping-solid.svg" alt="" width="37px" height="37px">
+                <img src="../images/icons-svg/header-icon-search.svg" alt="">
+            </div>
+            <div class="flex-row2">
+                <nav class="navbar">
+                    <ul>
+                        <a href="../index.html">
+                            <li>Inicio</li>
+                        </a>
+                        <a href="../historia.html">
+                            <li>Patrimonio Histórico</li>
+                        </a>
+                        <li>Patrimonio Cultural</li>
+                        <a href="./noticias.html">
+                            <li>Noticias</li>
+                        </a>
+                        <a href="./tienda.html">
+                            <li class="tienda">Tienda</li>
+                        </a>
+                        <li><a href="./gestion-productos.html" class="admon">Administrar Productos</a></li>
+                        <li>Contáctanos</li>
+                    </ul>
+                </nav>
+                <a href="../InicioSesion.html" class="btn-iniciarsesion">Iniciar Sesión</a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section class="side-bar">
+            <ul>
+                <li class="side-bar--element"><span class="icon-sidebar icon-bag"></span>Tus productos</li>
+                <li class="side-bar--element"><span class="icon-sidebar icon-chart"></span>Estadísticas</li>
+                <li class="side-bar--element"><span class="icon-sidebar icon-messages"></span>Mensajes directos</li>
+                <li class="side-bar--element"><span class="icon-sidebar icon-label"></span>Ofertas y combos</li>
+                <li class="side-bar--element"><span class="icon-sidebar icon-gear"></span>Configuraciones</li>
+            </ul>
+        </section>
+        <div class="products">
+            <span class="add-products">
+                <span class="icon-name">
+                    <span class="icon-user"></span>
+                    <p class="name-user">Evanistería bendición de Dios</p>
+                </span>
+                <span class="btn-form">
+                    <form action="#">
+                        <span class="column-form">
+                            <span>
+                                <label for="nombre">Nombre del producto</label>
+                                <input type="text" id="nombre">
+                            </span>
+                            <span>
+                                <label for="tipo">Tipo de producto</label>
+                                <select name="" id="tipo">
+                                    <option value="">Muebles</option>
+                                    <option value="">Decoracion</option>
+                                    <option value="">Comida</option>
+                                </select>
+                            </span>
+                            <span>
+                                <label for="monto">Precio</label>
+                                <input type="text" id="monto" pattern="^\d+(\.\d{2})?$" placeholder="0.00">
+                            </span>
+                        </span>
+                        <span class="column-form">
+                            <span>
+                                <label for="monto">Cantidad disponible</label>
+                                <input type="number" id="numero" name="numero" min="0" max="100000" step="1">
+                            </span>
+                            <span class="filechooser-container">
+                                <input type="file">
+                                <span class="icon"></span>
+                                <p>Agregue imágenes del producto</p>
+                            </span>
+                        </span>
+                    </form>
+                    <p class="btn-add">Agregar Producto</p>
+                </span>
+            </span>
+            <span class="edit-products">
+                <span class="product-item">
+                    <img src="../images/sillas.jpg" alt="" height="150px" width="225px">
+                    <span class="container-details-buttons">
+                        <span class="text-container">
+                            <p class="price-product">C$1500.00</p>
+                            <p class="name-product">Sillas de madera</p>
+                            <p class="date-product">Publicado: 31/10/2023</p>
+                            <p class="status-product">Activo</p>
+                        </span>
+                        <span class="container-buttons">
+                            <span class="btn-edit">Editar<span class="icon-buton edit"></span></span>
+                            <span class="btn-delete">Quitar Producto <span class="icon-buton delete"></span></span>
+                            <span class="btn-share">Compartir <span class="icon-buton share"></span></span>
+                        </span>
+                    </span>
+                </span>
+                <span class="product-item">
+                    <img src="../images/repisa.jpg" alt="" height="150px" width="225px">
+                    <span class="container-details-buttons">
+                        <span class="text-container">
+                            <p class="price-product">C$700.00</p>
+                            <p class="name-product">Repisa de madera</p>
+                            <p class="date-product">Publicado: 31/10/2023</p>
+                            <p class="status-product">Activo</p>
+                        </span>
+                        <span class="container-buttons">
+                            <span class="btn-edit">Editar<span class="icon-buton edit"></span></span>
+                            <span class="btn-delete">Quitar Producto <span class="icon-buton delete"></span></span>
+                            <span class="btn-share">Compartir <span class="icon-buton share"></span></span>
+                        </span>
+                    </span>
+                </span>
+            </span>
+        </div>
+    </main>
+    <footer class="v178_269">
+        <div class="v178_270"></div><span class="v178_271">Diriomo</span>
+        <div class="v178_272"></div>
+        <div class="v178_273"></div>
+        <div class="v178_274"></div>
+        <div class="v178_275"></div><span class="v178_276">Para visitantes</span><span class="v178_277">Sobre
+            nosotros</span><span class="v178_278">Contactos</span><span class="v178_279">Misión</span><span
+            class="v178_280">Visión</span><span class="v178_281">Galeria</span><span
+            class="v178_282">Noticias</span><span class="v178_283">Artículos científicos</span><span
+            class="v178_284">© 2023 Derchos reservados
+            «Diriomo, un destino turístico lleno de historia, cultura y tradición»
+            Cuando se utilizan materiales tomados de este sitio, se requiere un enlace a la fuente.</span><span
+            class="v178_285">Nuestras redes sociales</span><span class="v178_286">Patrimonio histórico</span><span
+            class="v178_287">Publicaciones</span><span class="v178_288">Seminarios</span><span
+            class="v178_289">Exposiciones</span><span class="v178_290">Patrimonio Cultural</span><span
+            class="v178_291">Noticias</span><span class="v178_292">Historia</span><span class="v178_293">+505 8452
+            0000
+            +505 8452 0000
+
+            info@.ni</span><span class="v178_294">Información legal</span><span class="v178_295">Política de
+            privacidad</span>
+        <div class="v178_296">
+            <div class="v178_297"></div><span class="v178_298">Comentarios</span><span class="v178_299">Ingresa tus
+                sugerencias</span>
+        </div>
+        <div class="v178_300"></div>
+        <div class="name"></div>
+        <div class="v178_302"></div>
+    </footer>
+</body>
+</html>

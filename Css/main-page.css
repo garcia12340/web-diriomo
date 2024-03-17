@@ -1,0 +1,1951 @@
+
+html {
+	font-size:58.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a, a:hover, a:visited{
+  color: black;
+  text-decoration: none;
+}
+.auto-group-lprq-m6i ,.enlace-log, .enlace-log:hover, .enlace-log:visited{
+  color: white;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}
+.patrimonio-histrico-Zcv, .enlace-hist{
+  color: black;
+}
+
+.patrimonio-cultural-GGS, a, a:hover, a:visited{
+  color: black;
+}
+.main-page-Fuk {
+  box-sizing: border-box;
+  padding-top: 1.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.main-page-Fuk .auto-group-mph4-ah8 {
+  margin: 0rem 10rem 2.2rem 10rem;
+  width: calc(100% - 20rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-mph4-ah8 .ellipse-1-tC2 {
+  margin-right: 73.8rem;
+  width: 12rem;
+  height: 12rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg.png');
+  border-radius: 6rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-mph4-ah8 .vector-zVx {
+  margin: 0rem 1.7rem 1rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-mph4-ah8 .desconectado-K2S {
+  margin: 0.2rem 9.6rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #1a1a1a;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-mph4-ah8 .shopping--cnE {
+  margin: 1.1rem 4.9rem 0rem 0rem;
+  width: 3.7rem;
+  height: 3.7rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-mph4-ah8 .header-icon-search-KwY {
+  margin-top: 1rem;
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt {
+  margin: 0rem 4.6rem 5.9rem 4.2rem;
+  box-sizing: border-box;
+  padding: 0.7rem 7.7rem 0.8rem 5.6rem;
+  width: calc(100% - 8.8rem);
+  height: 6rem;
+  border-bottom: solid 0.1rem #000000;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG {
+  margin: 1.3rem 10.2rem 0.9rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.5rem;
+  height: calc(100% - 2.2rem);
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG .auto-group-z8bc-aFC {
+  margin-right: 13.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG .auto-group-z8bc-aFC .inicio-KTg {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG .auto-group-z8bc-aFC .rectangle-321-eF4 {
+  width: 3.8rem;
+  height: 0.4rem;
+  background-color: #9f0000;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG .patrimonio-histrico-Zcv {
+  margin: 0.1rem 8rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG .patrimonio-cultural-GGS {
+  margin-right: 9.1rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG .noticias-b3p {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG .tienda-iPL {
+  margin-right: 8.9rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .group-2-TwG .contctanos-Sq8 {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .menu-RDt .auto-group-a71c-7sQ .auto-group-lprq-m6i {
+  width: 12.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #964b00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .offer-op6 {
+  box-sizing: border-box;
+  padding: 0rem 0.2rem 0rem 5.8rem;
+  width: 100%;
+  height: 50rem;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/offer-bg.png');
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .offer-op6 .auto-group-x49q-7pn {
+  margin: 9.6rem 1.6rem 15.025rem 0rem;
+  height: calc(100% - 24.6252rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .offer-op6 .auto-group-x49q-7pn .diriomo-valle-de-dirianes-territorio-donde-se-asentaron-los-dirianes-EuQ {
+  margin-bottom: 2.5107rem;
+  max-width: 65.7rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.355;
+  color: #ffffff;
+  font-family: Prata, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .offer-op6 .auto-group-x49q-7pn .arrow-left-iZg {
+  margin-left: 5.9rem;
+  width: 1.5751rem;
+  height: 2.4641rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .offer-op6 .auto-group-3zyr-FZc {
+  width: 34.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .offer-op6 .auto-group-3zyr-FZc .offer-slide-Cjk {
+  width: 17.3rem;
+  height: 50rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.main-page-Fuk .header-G66 .offer-op6 .auto-group-3zyr-FZc .offer-slide-KZU {
+  width: 18rem;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.main-page-Fuk .header-G66 .offer-op6 .offer-slide-fNS {
+  width: 18rem;
+  height: 50rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .offer-op6 .auto-group-1yku-ojY {
+  box-sizing: border-box;
+  padding: 32.511rem 2.225rem 15.025rem 2.225rem;
+  width: 18rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/offer-slide-bg.png');
+  flex-shrink: 0;
+}
+.main-page-Fuk .header-G66 .offer-op6 .auto-group-1yku-ojY .arrow-right-wKx {
+  margin-right: 11.9752rem;
+  width: 1.5751rem;
+  height: 2.4641rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.main-page-Fuk .auto-group-ctuw-nrN {
+  box-sizing: border-box;
+  padding: 6.1rem 9.3rem 3.3rem 8.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL {
+  margin: 0rem 0.7rem 6rem 1.5rem;
+  width: calc(100% - 2.2rem);
+  height: 89.9rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .promociona-tus-productos-con-nosotros-NJn {
+  width: 57.3rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .btn-4xJ {
+  width: 19.6rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 52.2rem;
+  top: 85.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a0522d;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup {
+  width: 124rem;
+  height: 69.3rem;
+  position: absolute;
+  left: 0;
+  top: 7.8rem;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser {
+  margin-right: 2.5rem;
+  width: 39.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .museum-pic-DCv {
+  margin-bottom: 3rem;
+  width: 39.7rem;
+  height: 35rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .la-casa-de-las-cajetas-M4E {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-dwnv-g6W {
+  box-sizing: border-box;
+  padding: 2.9rem 0rem 2.1rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-dwnv-g6W .group-4-1Pg {
+  margin: 0rem 30.7rem 1rem 0rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-dwnv-g6W .group-4-1Pg .vector-Xsp {
+  margin-right: 1rem;
+  width: 1.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-dwnv-g6W .group-4-1Pg .ubicacin-58e {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-dwnv-g6W .group-5-zWW {
+  margin: 0rem 28.7rem 2rem 0rem;
+  width: calc(100% - 28.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-dwnv-g6W .group-5-zWW .vector-XWS {
+  margin-right: 0.9rem;
+  width: 1.9rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-dwnv-g6W .group-5-zWW .am-6-pm-Giv {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-dwnv-g6W .la-casa-de-las-cajetas-es-un-lugar-de-deleite-para-los-amantes-de-los-dulces-en-su-variado-catlogo-encontrars-una-amplia-seleccin-de-cajetas-exquisitas-contando-con-todas-las-cajetas-clsicas-ofrecemos-una-gama-de-sabores-y-presentaciones-que-satisfarn-cualquier-antojo-QKL {
+  max-width: 39.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-88nn-p8A {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-88nn-p8A .auto-group-fg3c-AC2 {
+  margin-right: 2.5rem;
+  width: 18.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #964b00;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-ser .auto-group-88nn-p8A .auto-group-odj8-Ehg {
+  width: 18.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #964b00;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N {
+  margin-right: 2.4rem;
+  width: 39.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .museum-pic-4gi {
+  margin-bottom: 3rem;
+  width: 39.6rem;
+  height: 35rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .volcano-pizzas-PDC {
+  margin-bottom: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .group-4-hza {
+  margin: 0rem 30.707rem 1rem 0rem;
+  width: calc(100% - 30.7071rem);
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .group-4-hza .vector-SSN {
+  margin-right: 0.9975rem;
+  width: 1.7955rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .group-4-hza .ubicacin-aHg {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .group-5-ht6 {
+  margin: 0rem 30.2rem 2rem 0rem;
+  width: calc(100% - 30.2rem);
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .group-5-ht6 .vector-qDc {
+  margin-right: 0.9048rem;
+  width: 1.8952rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .group-5-ht6 .pm-9pm-NjL {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .nuestro-extenso-men-ofrece-una-amplia-variedad-de-opciones-de-pizzas-que-deleitarn-tus-sentidos-desde-las-clsicas-margaritas-hasta-las-creaciones-gourmet-ms-audaces-en-volcano-pizzas-encontrars-la-perfecta-combinacin-de-sabores-y-texturas-que-satisfarn-tus-antojos-ms-exigentes-WqY {
+  margin-bottom: 2.1rem;
+  max-width: 39.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .auto-group-7c3u-Wyx {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .auto-group-7c3u-Wyx .auto-group-kvka-3yt {
+  margin-right: 2.4937rem;
+  width: 18.5531rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #964b00;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-82N .auto-group-7c3u-Wyx .auto-group-ehqc-XeA {
+  width: 18.5531rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #964b00;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C {
+  width: 39.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .museum-pic-xUa {
+  margin-bottom: 3rem;
+  width: 39.7rem;
+  height: 35rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .el-aguacate-hBG {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-1uhp-2US {
+  box-sizing: border-box;
+  padding: 2.9rem 0rem 4rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-1uhp-2US .group-4-kvE {
+  margin: 0rem 30.7rem 1rem 0rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-1uhp-2US .group-4-kvE .vector-hKg {
+  margin-right: 1rem;
+  width: 1.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-1uhp-2US .group-4-kvE .ubicacin-EqQ {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-1uhp-2US .group-5-a8a {
+  margin: 0rem 28.6rem 2rem 0rem;
+  width: calc(100% - 28.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-1uhp-2US .group-5-a8a .vector-JqG {
+  margin-right: 0.9rem;
+  width: 1.9rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-1uhp-2US .group-5-a8a .pm-10pm-rLz {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-1uhp-2US .nuestro-amplio-men-presenta-cada-plato-es-una-muestra-de-nuestra-dedicacin-a-ofrecer-sabores-autnticos-y-frescos-en-cada-bocado-en-el-aguacate-celebramos-la-variedad-y-la-calidad-en-nuestros-platos-creando-una-experiencia-gastronmica-nica-BPG {
+  max-width: 39.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-ct7p-17Q {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-ct7p-17Q .auto-group-3c5q-9jQ {
+  margin-right: 2.5rem;
+  width: 18.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #964b00;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .auto-group-pt7l-Lup .museum-block-D1C .auto-group-ct7p-17Q .auto-group-gmiz-r82 {
+  width: 18.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #964b00;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .auto-group-xeou-hyL .about-museum-SAE .conoce-ms-sobre-como-vender-de-una-manera-efectiva-y-desde-tu-hogar-8bL {
+  width: 79.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 80.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU {
+  margin: 0rem 0.7rem 6rem 1.5rem;
+  width: calc(100% - 2.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .por-qu-elegir-diriomo-para-el-comercio-de-tus-productos-jLE {
+  margin-bottom: 4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 {
+  width: 100%;
+  height: 34rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU {
+  margin-right: 2.5rem;
+  width: 60.8rem;
+  height: 100%;
+  row-gap: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-v9p {
+  box-sizing: border-box;
+  padding: 1.9rem 3rem 1.7rem 3rem;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #a0522d;
+  background-color: #b4b3b3;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-bWr {
+  box-sizing: border-box;
+  padding: 1.9rem 3rem 1.7rem 3rem;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #a0522d;
+  background-color: #b4b3b3;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-6Tc {
+  box-sizing: border-box;
+  padding: 1.9rem 3rem 1.7rem 3rem;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #a0522d;
+  background-color: #b4b3b3;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-z3C {
+  box-sizing: border-box;
+  padding: 1.9rem 3rem 1.7rem 3rem;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #a0522d;
+  background-color: #b4b3b3;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-gRp {
+  box-sizing: border-box;
+  padding: 1.9rem 3rem 1.7rem 3rem;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #a0522d;
+  background-color: #b4b3b3;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .vistavki-about-my4 {
+  box-sizing: border-box;
+  padding: 27.021rem 3rem 1.994rem 3rem;
+  width: 60.7rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-29-bg.png');
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .vistavki-about-my4 .group-11-JTC {
+  margin-right: 34.7rem;
+  width: 20rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a0522d;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .ubicacion-geografica-NCA {
+  margin: 0rem 0.7rem 6rem 1.5rem;
+  width: calc(100% - 2.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .ubicacion-geografica-NCA .auto-group-zcaw-Ha2 {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .ubicacion-geografica-NCA .auto-group-zcaw-Ha2 .ubicacin-geogrfica-q5k {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .ubicacion-geografica-NCA .auto-group-zcaw-Ha2 .rectangle-321-A82 {
+  width: 30rem;
+  height: 1rem;
+  background-color: #9f0000;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .ubicacion-geografica-NCA .auto-group-wsp8-HiS {
+  width: 100%;
+  height: 34rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .ubicacion-geografica-NCA .auto-group-wsp8-HiS .vistavki-text-qV4 {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 6.2rem 4.2rem 6.2rem 3rem;
+  width: 60.8rem;
+  height: 100%;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .ubicacion-geografica-NCA .auto-group-wsp8-HiS .vistavki-text-qV4 .diriomo-limita-al-norte-con-el-municipio-de-diri-al-sur-con-el-de-nandaime-al-este-con-el-municipio-de-granada-y-al-oeste-con-el-municipio-de-diri-la-cabecera-municipal-est-ubicada-a-48-kilmetros-de-la-capital-de-managua-MTQ {
+  max-width: 53.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.main-page-Fuk .auto-group-ctuw-nrN .ubicacion-geografica-NCA .auto-group-wsp8-HiS .rectangle-29-yUn {
+  width: 60.7rem;
+  height: 34rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ {
+  margin: 0rem 0.4rem 4.1rem 0rem;
+  width: 125.8rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ .auto-group-mdwi-E9p {
+  margin: 0rem 0rem 2.934rem 0.3rem;
+  width: 9.2rem;
+  height: 4.8rem;
+  position: relative;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ .auto-group-mdwi-E9p .clima-YgJ {
+  width: 8.2rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ .auto-group-mdwi-E9p .clima-4uY {
+  width: 8.2rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ .auto-group-mdwi-E9p .rectangle-322-ast {
+  width: 9.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  background-color: #9f0000;
+  border-radius: 0.4rem;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ .auto-group-ry4n-Vjx {
+  width: 100%;
+  height: 35.9663rem;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ .auto-group-ry4n-Vjx .rectangle-29-3mU {
+  margin-right: 2.5rem;
+  width: 62.6rem;
+  height: 35.9663rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ .auto-group-ry4n-Vjx .auto-group-37wg-ALJ {
+  box-sizing: border-box;
+  padding: 9.203rem 3.1rem 10.263rem 3.9rem;
+  width: 60.7rem;
+  height: 100%;
+  border: solid 0 #000000;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .clima-6ZQ .auto-group-ry4n-Vjx .auto-group-37wg-ALJ .el-clima-en-el-municipio-se-encuentra-solo-con-dos-estaciones-el-ao-invierno-que-va-de-mayo-a-octubre-y-verano-que-va-de-noviembre-a-abril-la-precipitacin-anual-oscila-entre-las-1200-y-1400-mm-la-temperatura-vara-entre-los-27-a-275-c-por-lo-que-el-clima-de-sabana-tropical-se-puede-denominar-semi-hmedo-se-puede-decir-que-el-clima-es-ms-fresco-que-la-capital-Urn {
+  max-width: 53.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.main-page-Fuk .auto-group-ctuw-nrN .suelos-2G2 {
+  margin: 0rem 3.5rem 6rem 1.5rem;
+  width: calc(100% - 5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .suelos-2G2 .auto-group-uaqa-kC2 {
+  margin-bottom: 2.9rem;
+  width: 8rem;
+  height: 4.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .suelos-2G2 .auto-group-uaqa-kC2 .suelo-tZ8 {
+  width: 8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .suelos-2G2 .auto-group-uaqa-kC2 .rectangle-322-biS {
+  width: 8rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.7rem;
+  background-color: #9f0000;
+  border-radius: 0.4rem;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .suelos-2G2 .auto-group-hkxx-WqQ {
+  width: 100%;
+  height: 34rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .suelos-2G2 .auto-group-hkxx-WqQ .vistavki-text-reN {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 6.9rem 4.1rem 6.9rem 3rem;
+  width: 60.8rem;
+  height: 100%;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .suelos-2G2 .auto-group-hkxx-WqQ .vistavki-text-reN .la-geografa-del-municipio-no-posee-ni-ros-ni-montaas-de-gran-importancia-debido-a-que-se-encuentra-en-la-parte-baja-de-la-meseta-de-los-pueblos-la-mayor-parte-del-territorio-es-plano-y-por-l-pasa-la-microcuenca-de-las-mesetas-aaN {
+  max-width: 53.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.main-page-Fuk .auto-group-ctuw-nrN .suelos-2G2 .auto-group-hkxx-WqQ .rectangle-29-Cbk {
+  width: 57.9rem;
+  height: 32.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .flora-91C {
+  margin: 0rem 0rem 4.9rem 1.5rem;
+  width: 124.7rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .flora-91C .auto-group-6mdk-U3U {
+  margin-bottom: 3.1053rem;
+  width: 7.2rem;
+  height: 4.9rem;
+  position: relative;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .flora-91C .auto-group-6mdk-U3U .flora-CkA {
+  width: 7.2rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .flora-91C .auto-group-6mdk-U3U .rectangle-322-Kpn {
+  width: 7.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.7rem;
+  background-color: #9f0000;
+  border-radius: 0.4rem;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .flora-91C .auto-group-2jen-4Ga {
+  margin-left: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 34.8947rem;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .flora-91C .auto-group-2jen-4Ga .rectangle-29-nyG {
+  margin-right: 3.1rem;
+  width: 60.7rem;
+  height: 34.8947rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .flora-91C .auto-group-2jen-4Ga .auto-group-prwc-8XL {
+  box-sizing: border-box;
+  padding: 4.824rem 3.9rem 6.571rem 3rem;
+  width: 60.8rem;
+  height: 100%;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .flora-91C .auto-group-2jen-4Ga .auto-group-prwc-8XL .diriomo-cuenta-con-varios-parques-y-reservas-excelentes-con-una-slida-infraestructura-para-atender-cmodamente-a-los-visitantes-es-una-reserva-volcnica-con-bosques-montanos-y-nubosos-que-ofrecen-una-rica-diversidad-de-plantas-en-la-reserva-natural-volcn-mombacho-se-encuentran-especies-de-flora-emblemticas-para-el-municipio-como-la-orqudea-maxillaria-mombachoensis-que-es-una-especie-nica-en-el-mundo-y-el-rbol-freziera-friedrichstaliana-que-es-un-endemismo-compartido-entre-nicaragua-honduras-y-costa-rica-sE2 {
+  max-width: 53.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.main-page-Fuk .auto-group-ctuw-nrN .fauna-kx2 {
+  margin: 0rem 0.7rem 6rem 1.5rem;
+  width: calc(100% - 2.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .fauna-kx2 .auto-group-vfte-5jQ {
+  margin-bottom: 2.9rem;
+  width: 8.8rem;
+  height: 4.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .fauna-kx2 .auto-group-vfte-5jQ .fauna-pgz {
+  width: 8.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .fauna-kx2 .auto-group-vfte-5jQ .rectangle-322-Y7C {
+  width: 8.8rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.7rem;
+  background-color: #9f0000;
+  border-radius: 0.4rem;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .fauna-kx2 .auto-group-c2jc-TV4 {
+  width: 100%;
+  height: 34rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .fauna-kx2 .auto-group-c2jc-TV4 .vistavki-text-cMx {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 5.2rem 4.1rem 5.2rem 3rem;
+  height: 100%;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .fauna-kx2 .auto-group-c2jc-TV4 .vistavki-text-cMx .para-los-amantes-de-la-naturaleza-diriomo-cuenta-con-una-rica-diversidad-de-animales-en-la-reserva-natural-volcn-mombacho-se-encuentran-especies-de-fauna-endmicas-del-pas-como-la-salamandra-bolitoglossa-mombachoensis-y-la-mariposa-napeogenes-tolosa-mombachoensis-96z {
+  max-width: 53.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.main-page-Fuk .auto-group-ctuw-nrN .fauna-kx2 .auto-group-c2jc-TV4 .rectangle-29-xKL {
+  width: 60.7rem;
+  height: 34rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J {
+  margin: 0rem 0.6rem 6rem 1.5rem;
+  width: calc(100% - 2.1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .opiniones-pMY {
+  margin-bottom: 3.9rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx {
+  margin-bottom: 8rem;
+  width: 100%;
+  height: 27.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-1-guY {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding-top: 0.1rem;
+  width: 60.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-1-guY .auto-group-3pcn-Qae {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 20.1rem 1.4rem 20.1rem;
+  width: 100%;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-1-guY .auto-group-3pcn-Qae .rectangle-328-92S {
+  width: 20.6rem;
+  height: 17.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-1-guY .muy-satisfecho-g2N {
+  margin: 0rem 43.8rem 0.8rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-1-guY .juanito-Bzi {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-2-LMp {
+  box-sizing: border-box;
+  padding-top: 0.1rem;
+  width: 60.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-2-LMp .auto-group-auzw-sce {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 20.1rem 1.4rem 20.1rem;
+  width: 100%;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-2-LMp .auto-group-auzw-sce .rectangle-328-omC {
+  width: 20.6rem;
+  height: 17.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-2-LMp .auto-group-x3ni-x8J {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-2-LMp .auto-group-x3ni-x8J .me-ha-parecido-til-para-dar-a-conocer-mi-negocio-71C {
+  margin-right: 13.7rem;
+  max-width: 40.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .auto-group-14qz-wwx .frame-2-LMp .auto-group-x3ni-x8J .juancito-1cN {
+  margin-bottom: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .opiniones-J8J .btn-joG {
+  margin: 0rem 56.9rem 0rem 52.2rem;
+  width: calc(100% - 109.1rem);
+  height: 4.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a0522d;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ {
+  margin: 0rem 0.6rem 8.1rem 1.6rem;
+  width: calc(100% - 2.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW {
+  box-sizing: border-box;
+  padding-bottom: 7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW .noticias-o-artculos-destacados-del-municipio-oge {
+  margin-bottom: 3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW .auto-group-hkte-6fk {
+  width: 38.7rem;
+  height: 4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW .auto-group-hkte-6fk .rectangle-45-F2r {
+  width: 10rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #8b0000;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW .auto-group-hkte-6fk .group-12-PPx {
+  width: 35.85rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 2.85rem;
+  top: 1rem;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW .auto-group-hkte-6fk .group-12-PPx .filtrar-WjU {
+  margin-right: 4.35rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW .auto-group-hkte-6fk .group-12-PPx .ao-2023-RrS {
+  margin-right: 4.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW .auto-group-hkte-6fk .group-12-PPx .autor-xLa {
+  margin-right: 4.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-i7t8-HCW .auto-group-hkte-6fk .group-12-PPx .categoria-Hte {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-nqqj-2LS {
+  width: 100%;
+  height: 35rem;
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-nqqj-2LS .rectangle-46-xjt {
+  width: 39.7rem;
+  height: 35rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-nqqj-2LS .auto-group-u5ml-uf8 {
+  box-sizing: border-box;
+  padding: 2.1rem 1rem 2rem 1rem;
+  width: 39.6rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-47-bg.png');
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-nqqj-2LS .auto-group-u5ml-uf8 .historias-de-pedro-arauz-palacios-2Dx {
+  margin-bottom: 15.3rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-nqqj-2LS .auto-group-u5ml-uf8 .desde-temprana-edad-se-le-vea-su-particularidades-como-lder-k9x {
+  margin: 0rem 0rem 3rem 2rem;
+  max-width: 29rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-nqqj-2LS .auto-group-u5ml-uf8 .group-12-pfc {
+  margin-left: 1rem;
+  width: 20rem;
+  height: 5rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a0522d;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .noticias-zDQ .auto-group-nqqj-2LS .rectangle-48-gC2 {
+  width: 39.7rem;
+  height: 35rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-ctuw-nrN .socios-DSr {
+  margin-right: 113.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-iemx-LnN {
+  margin-bottom: 6.5rem;
+  box-sizing: border-box;
+  padding: 2.4rem 10.5rem 3.4rem 10rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #191919;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-iemx-LnN .rectangle-329-FPY {
+  margin-right: 3rem;
+  width: 18.6rem;
+  height: 14.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-iemx-LnN .rectangle-330-nPU {
+  margin-right: 2.5rem;
+  width: 18.1rem;
+  height: 14.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-iemx-LnN .rectangle-331-7ge {
+  margin-right: 2.5rem;
+  width: 18.6rem;
+  height: 14.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-iemx-LnN .rectangle-332-reE {
+  margin-right: 3.2rem;
+  width: 18.5rem;
+  height: 14.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-iemx-LnN .rectangle-333-zkS {
+  margin-right: 2.7rem;
+  width: 17.9rem;
+  height: 14.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .auto-group-iemx-LnN .rectangle-334-LZQ {
+  width: 17.9rem;
+  height: 14.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr {
+  width: 100%;
+  height: 56rem;
+  position: relative;
+  background-color: #191919;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-3yni-oht {
+  width: 114.9rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 29.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.main-page-Fuk .footer-Gxr .auto-group-3yni-oht .diriomo-Kw8 {
+  margin-right: 62.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-3yni-oht .footer-mailing-F46 {
+  margin-top: 2.3rem;
+  width: 39.7rem;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-3yni-oht .footer-mailing-F46 .comentarios-vR8 {
+  margin: 0rem 0rem 1rem 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .footer-Gxr .auto-group-3yni-oht .footer-mailing-F46 .auto-group-srxj-Egi {
+  box-sizing: border-box;
+  padding: 1.7rem 2rem 1.6rem 2rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #ffffff;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr {
+  width: 109rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 10rem;
+  top: 6.5rem;
+  display: flex;
+  align-items: center;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE {
+  box-sizing: border-box;
+  padding-right: 3.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .image-12-ZsQ {
+  margin-right: 10rem;
+  width: 11.1rem;
+  height: 11rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x {
+  margin-right: 7.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .sobre-nosotros-dcN {
+  margin-bottom: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .contactos-xuY {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .misin-6kr {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .visin-e1g {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .historia-z5Y {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q {
+  margin-right: 6.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .para-visitantes-UWW {
+  margin-bottom: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .patrimonio-histrico-DU6 {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .patrimonio-cultural-LYi {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .noticias-g6n {
+  margin-bottom: 2.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .galeria-DsQ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ .artculos-cientficos-iZG {
+  margin-bottom: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ .publicaciones-SkA {
+  margin: 0rem 0rem 1.5rem 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ .seminarios-kkr {
+  margin: 0rem 0rem 1.5rem 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ .exposiciones-geW {
+  margin-left: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .nuestras-redes-sociales-y7p {
+  margin-bottom: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 {
+  margin: 0rem 0rem 2rem 0.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 .vector-37g {
+  margin-right: 2rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 .vector-mpN {
+  margin: 0.1rem 7rem 0rem 0rem;
+  width: 3.8rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 .vector-ttz {
+  margin-right: 2rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 .vector-SQi {
+  margin-top: 0.0562rem;
+  width: 3.4rem;
+  height: 2.4562rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .infoni-aWv {
+  max-width: 8.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .noticias-6VG {
+  width: 5.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 52.2rem;
+  top: 25.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-page-Fuk .footer-Gxr .auto-group-51kq-1ML {
+  width: 84.85rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 10rem;
+  top: 48.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.main-page-Fuk .footer-Gxr .auto-group-51kq-1ML .auto-group-cyae-LPc {
+  margin: 0.4rem 27.75rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-51kq-1ML .auto-group-cyae-LPc .informacin-legal-56J {
+  margin-bottom: 0.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-51kq-1ML .auto-group-cyae-LPc .poltica-de-privacidad-xft {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .auto-group-51kq-1ML .derchos-reservados-diriomo-un-destino-turstico-lleno-de-historia-cultura-y-tradicin-cuando-se-utilizan-materiales-tomados-de-este-sitio-se-requiere-un-enlace-a-la-fuente-tZY {
+  max-width: 45.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-page-Fuk .footer-Gxr .line-4-XcW {
+  width: 124rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 10rem;
+  top: 45.8rem;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+}
+.main-page-Fuk .footer-Gxr .facebook-one--eSE {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 10.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}

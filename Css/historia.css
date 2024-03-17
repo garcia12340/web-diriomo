@@ -1,0 +1,789 @@
+
+html {
+	font-size:58.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+a, a:hover, a:visited{
+  text-decoration: none;
+  color: #ffffff;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.historia-69G {
+  box-sizing: border-box;
+  padding: 1.3rem 0rem 62.9rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.historia-69G .header-1n2 {
+  margin-bottom: 4.5rem;
+  box-sizing: border-box;
+  padding: 0.3rem 4.6rem 0.3rem 4.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-sknw-8bk {
+  margin: 0rem 5.4rem 2.2rem 5.8rem;
+  width: calc(100% - 11.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-sknw-8bk .ellipse-1-2x2 {
+  margin-right: 73.8rem;
+  width: 12rem;
+  height: 12rem;
+  cursor: pointer;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-2Vg.png');
+  border-radius: 6rem;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-sknw-8bk .vector-vGi {
+  margin: 0rem 1.7rem 1rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-sknw-8bk .desconectado-rAN {
+  margin: 0.2rem 9.831rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #1a1a1a;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-sknw-8bk .shopping--YJ6 {
+  margin: 1.1rem 5.208rem 0rem 0rem;
+  width: 3.1604rem;
+  height: 2.775rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-sknw-8bk .header-icon-search-3eA {
+  margin-top: 1rem;
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .line-2-LNN {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3000000119);
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U {
+  margin: 0rem 7.7rem 0.7rem 5.6rem;
+  width: calc(100% - 13.3rem);
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC {
+  margin: 1.3rem 10.2rem 1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.5rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC .inicio-gqY {
+  margin-right: 12.9rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC .auto-group-3uop-D4n {
+  margin-right: 7.7rem;
+  width: 15.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC .auto-group-3uop-D4n .patrimonio-histrico-wFg {
+  width: 14.5rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC .auto-group-3uop-D4n .rectangle-321-EEn {
+  width: 15.8rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  background-color: #9f0000;
+  border-radius: 0.4rem;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC .patrimonio-cultural-kU2 {
+  margin-right: 7.2rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC .noticias-sYe {
+  margin: 0.1rem 8.9rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC .tienda-me2 {
+  margin-right: 8.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .group-2-AsC .contctanos-JP4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .auto-group-uecz-43U .auto-group-bzwk-Dkv {
+  width: 12.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #964b00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.historia-69G .header-1n2 .line-1-JGa {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3000000119);
+  flex-shrink: 0;
+}
+.historia-69G .main-oj8 {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 58.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.historia-69G .main-oj8 .rectangle-32-9Y6 {
+  width: 144rem;
+  height: 58.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  background-color: #ffffff;
+}
+.historia-69G .main-oj8 .line-1-5Rk {
+  width: 135.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 15.3657rem;
+  background-color: rgba(0, 0, 0, 0.3000000119);
+}
+.historia-69G .main-oj8 .el-municipio-de-diriomo-ubicado-en-el-departamento-de-granada-nicaragua-tiene-una-rica-historia-que-se-remonta-a-la-poca-precolombina-fue-poblado-por-las-tribus-caribies-o-quiribies-que-fueron-llamadas-posteriormente-chontales-o-chorotegas-la-palabra-chorotega-en-idioma-nhuatl-significa-extranjeros-de-estas-tribus-proviene-diriangn-que-fue-el-cacique-de-la-regin-de-la-manquesa-que-comprenda-diriamba-diriomo-diri-niquinohomo-y-catarina-el-trmino-y-voz-diri-o-diras-no-corresponde-al-nombre-racial-de-la-tribu-sino-al-de-la-regin-de-su-asiento-pues-significa-precisamente-pobladores-o-vecinos-de-las-colinas-o-alturas-durante-la-poca-colonial-diriomo-fue-encomendado-a-pedro-jimnez-vecino-de-la-ciudad-de-granada-hacia-el-ao-1518-ms-tarde-pas-a-ser-encomienda-de-ramn-de-crdenas-no-se-conoce-ninguna-ley-de-creacin-municipal-del-pueblo-de-diriomo-debido-sin-duda-alguna-a-la-antigedad-de-su-poblacin-es-importante-mencionar-que-el-nombre-diriomo-es-una-expresin-lingstica-de-origen-chorotega-y-significa-valle-de-dirianes-su-nombre-se-debe-a-que-en-este-territorio-se-asentaron-los-dirianes-que-era-una-agrupacin-tnica-perteneciente-a-los-chorotegas-este-pueblo-inmigrante-originario-de-mxico-lleg-a-nicaragua-en-el-siglo-ix-de-nuestra-era-dando-origen-a-varios-grupos-con-diferentes-nombres-diriomo-al-igual-que-otros-municipios-antiguos-presenta-caractersticas-de-tiempos-coloniales-algunas-manifestaciones-las-encontramos-en-la-construccin-de-viviendas-que-todava-conservan-esa-peculiaridad-de-antigedad-la-construccin-de-estas-es-con-material-que-se-encuentra-en-el-lugar-se-le-conoce-como-adobe-es-una-mezcla-de-barro-con-scate-este-material-fue-usado-en-un-100-de-las-primeras-casas-al-igual-que-la-iglesia-catlica-se-construyeron-en-este-municipio-aproximadamente-hace-200-aos-14W {
+  width: 60.9rem;
+  height: 44.4rem;
+  position: absolute;
+  left: 71.8rem;
+  top: 9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.historia-69G .main-oj8 .historia-de-diriomo-4sL {
+  width: 39.6rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 17.45rem;
+  top: 0;
+  text-align: center;
+  font-size: 4.6rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #964b00;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historia-69G .main-oj8 .rectangle-322-M5k {
+  width: 56.2rem;
+  height: 42.8rem;
+  position: absolute;
+  left: 10rem;
+  top: 8.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.historia-69G .galeria-Fwp {
+  box-sizing: border-box;
+  padding: 1.943rem 4.394rem 4.154rem 4.394rem;
+  width: 143.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.historia-69G .galeria-Fwp .galeria-de-historia-xrE {
+  margin: 0rem 95.831rem 7.041rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .galeria-Fwp .auto-group-pfk8-g1Y {
+  margin-bottom: 5.2159rem;
+  width: 100%;
+  height: 69.3409rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.historia-69G .galeria-Fwp .auto-group-pfk8-g1Y .line-1-cA6 {
+  width: 135.0122rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 20.3172rem;
+  background-color: rgba(0, 0, 0, 0.3000000119);
+}
+.historia-69G .galeria-Fwp .auto-group-pfk8-g1Y .image-16-wiA {
+  width: 60.3161rem;
+  height: 69.3409rem;
+  position: absolute;
+  left: 67.3064rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.historia-69G .galeria-Fwp .auto-group-pfk8-g1Y .image-17-4Gz {
+  width: 58.918rem;
+  height: 34.1591rem;
+  position: absolute;
+  left: 6.0915rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.historia-69G .galeria-Fwp .auto-group-pfk8-g1Y .medicina-tradicional-y-popular-P4N {
+  width: 32.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 19.4003rem;
+  top: 25.4659rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historia-69G .galeria-Fwp .auto-group-pfk8-g1Y .pedro-arauz-palacios-Gtr {
+  width: 23.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 85.8645rem;
+  top: 60.2386rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historia-69G .galeria-Fwp .auto-group-pfk8-g1Y .image-18-n6W {
+  width: 58.918rem;
+  height: 34.1591rem;
+  position: absolute;
+  left: 6.0915rem;
+  top: 35.1818rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.historia-69G .galeria-Fwp .auto-group-pfk8-g1Y .el-arte-de-la-escultura-en-piedra-cantera-blanca-uB8 {
+  width: 50.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 9.7014rem;
+  top: 60.2386rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historia-69G .galeria-Fwp .group-20-ao4 {
+  margin: 0rem 62.513rem 0rem 57.52rem;
+  box-sizing: border-box;
+  padding: 1.448rem 4.724rem 0.71rem 4.356rem;
+  width: calc(100% - 120.033rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #964b00;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.historia-69G .galeria-Fwp .group-20-ao4 .ver-ms-snA {
+  margin-bottom: 0.4473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .galeria-Fwp .group-20-ao4 .down--1dU {
+  margin-left: 0.3609rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.historia-69G .footer-Gxr {
+  width: 100%;
+  height: 56rem;
+  position: relative;
+  background-color: #191919;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-3yni-oht {
+  width: 114.9rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 29.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.historia-69G .footer-Gxr .auto-group-3yni-oht .diriomo-Kw8 {
+  margin-right: 62.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-3yni-oht .footer-mailing-F46 {
+  margin-top: 2.3rem;
+  width: 39.7rem;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-3yni-oht .footer-mailing-F46 .comentarios-vR8 {
+  margin: 0rem 0rem 1rem 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historia-69G .footer-Gxr .auto-group-3yni-oht .footer-mailing-F46 .auto-group-srxj-Egi {
+  box-sizing: border-box;
+  padding: 1.7rem 2rem 1.6rem 2rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #ffffff;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr {
+  width: 109rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 10rem;
+  top: 6.5rem;
+  display: flex;
+  align-items: center;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE {
+  box-sizing: border-box;
+  padding-right: 3.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .image-12-ZsQ {
+  margin-right: 10rem;
+  width: 11.1rem;
+  height: 11rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x {
+  margin-right: 7.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .sobre-nosotros-dcN {
+  margin-bottom: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .contactos-xuY {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .misin-6kr {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .visin-e1g {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-378e-W1x .historia-z5Y {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q {
+  margin-right: 6.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .para-visitantes-UWW {
+  margin-bottom: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .patrimonio-histrico-DU6 {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .patrimonio-cultural-LYi {
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .noticias-g6n {
+  margin-bottom: 2.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-cxee-L9Q .galeria-DsQ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ .artculos-cientficos-iZG {
+  margin-bottom: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ .publicaciones-SkA {
+  margin: 0rem 0rem 1.5rem 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ .seminarios-kkr {
+  margin: 0rem 0rem 1.5rem 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-7fqt-EaE .auto-group-62uq-NVQ .exposiciones-geW {
+  margin-left: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .nuestras-redes-sociales-y7p {
+  margin-bottom: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 {
+  margin: 0rem 0rem 2rem 0.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 .vector-37g {
+  margin-right: 2rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 .vector-mpN {
+  margin: 0.1rem 7rem 0rem 0rem;
+  width: 3.8rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 .vector-ttz {
+  margin-right: 2rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .auto-group-r1ws-6y8 .vector-SQi {
+  margin-top: 0.0562rem;
+  width: 3.4rem;
+  height: 2.4562rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-vge6-unr .auto-group-huij-1gn .infoni-aWv {
+  max-width: 8.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .noticias-6VG {
+  width: 5.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 52.2rem;
+  top: 25.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historia-69G .footer-Gxr .auto-group-51kq-1ML {
+  width: 84.85rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 10rem;
+  top: 48.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.historia-69G .footer-Gxr .auto-group-51kq-1ML .auto-group-cyae-LPc {
+  margin: 0.4rem 27.75rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-51kq-1ML .auto-group-cyae-LPc .informacin-legal-56J {
+  margin-bottom: 0.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-51kq-1ML .auto-group-cyae-LPc .poltica-de-privacidad-xft {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .auto-group-51kq-1ML .derchos-reservados-diriomo-un-destino-turstico-lleno-de-historia-cultura-y-tradicin-cuando-se-utilizan-materiales-tomados-de-este-sitio-se-requiere-un-enlace-a-la-fuente-tZY {
+  max-width: 45.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.historia-69G .footer-Gxr .line-4-XcW {
+  width: 124rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 10rem;
+  top: 45.8rem;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+}
+.historia-69G .footer-Gxr .facebook-one--eSE {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 10.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
